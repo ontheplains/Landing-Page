@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8db14011-673d-45b1-8777-e1550229a2a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/coming-sssoon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-cream-app.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-image-background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-restaurant.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo-video-background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/apple-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blurred-black-cover.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/new_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/restaurant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rick.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumb_application.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumb_image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumb_restaurant.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumb_video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/video_bg.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Landing-Page.iws" />
@@ -46,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.93040293">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.41025642">
+              <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -233,8 +214,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.93040293">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.41025642">
+          <caret line="86" column="39" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
